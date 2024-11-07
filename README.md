@@ -1,2 +1,4 @@
 # Live-Weather-
-You can know the current live weather of any city.
+A simple Python-based Live Weather app that allows users to fetch real-time weather information based on location (city name or coordinates).
+This app uses the [OpenWeatherMap API](https://openweathermap.org/api) to retrieve weather data and display it in a user-friendly format.
+
