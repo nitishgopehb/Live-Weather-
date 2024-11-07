@@ -19,3 +19,5 @@ Step 2: Install all dependencies
 Step3: Configure your WeatherAPI key
 api_key = "your_api_key_here"
 Replace "your_api_key_here" with the API key you obtained in Step 3
+
+I have used win32com.client as wincom and pyttsx3 for text to speech you can also use print functions.
