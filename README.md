@@ -14,7 +14,8 @@ Step 1: Clone the repository
 git clone https://github.com/nitishgopehb/Live-Weather-
 
 Step 2: Install all dependencies
-import requests
-import json
-import win32com.client as wincom
-import pyttsx3
+ requests, json, win32com.client as wincom, pyttsx3
+
+Step3: Configure your WeatherAPI key
+api_key = "your_api_key_here"
+Replace "your_api_key_here" with the API key you obtained in Step 3
