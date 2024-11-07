@@ -12,3 +12,9 @@ Display the name of the city🌍.
 Installation:
 Step 1: Clone the repository
 git clone https://github.com/nitishgopehb/Live-Weather-
+
+Step 2: Install all dependencies
+import requests
+import json
+import win32com.client as wincom
+import pyttsx3
